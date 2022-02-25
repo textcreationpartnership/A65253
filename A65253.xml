@@ -1,0 +1,196 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Very many hath been the testimonies of truth and large hath been the declarations that hath been given forth by the servants of the Lord, both sons and daughters of the followers of the Lamb amongst whom I having heard, beleived, and received their report, and the Lord having opened the eye within the vail, that made manifest his living witness, that witnessed to the truth cannot but give in my testimony to those pretious truths that hath been declared by them, though many for the witnessing thereof hath gone through many hardships, great suffering, &amp; long imprisonments ... I say I cannot but give my testimony, and chiefly concerning tythes as the Lord hath brought it to me, that for which hath been the cause of so much persecution in all ages, with something concerning oaths, which so many snares, traps and gins, hath been laid for the righteous innocent servants of the Lord, because they cannot swear. And these are the testimonies given forth from one that loves and fears the Lord, M.W.</title>
+            <author>Watkins, Morgan, fl. 1653-1670.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1665</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65253</idno>
+            <idno type="STC">Wing W1071</idno>
+            <idno type="STC">ESTC R217155</idno>
+            <idno type="EEBO-CITATION">99828855</idno>
+            <idno type="PROQUEST">99828855</idno>
+            <idno type="VID">33287</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65253)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33287)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1961:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Very many hath been the testimonies of truth and large hath been the declarations that hath been given forth by the servants of the Lord, both sons and daughters of the followers of the Lamb amongst whom I having heard, beleived, and received their report, and the Lord having opened the eye within the vail, that made manifest his living witness, that witnessed to the truth cannot but give in my testimony to those pretious truths that hath been declared by them, though many for the witnessing thereof hath gone through many hardships, great suffering, &amp; long imprisonments ... I say I cannot but give my testimony, and chiefly concerning tythes as the Lord hath brought it to me, that for which hath been the cause of so much persecution in all ages, with something concerning oaths, which so many snares, traps and gins, hath been laid for the righteous innocent servants of the Lord, because they cannot swear. And these are the testimonies given forth from one that loves and fears the Lord, M.W.</title>
+                  <author>Watkins, Morgan, fl. 1653-1670.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1665]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>M.W. = Morgan Watkins.</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Reproduction of the original in the Woodbrooke College (Birmingham, England) Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tithes --  Early works to 1800.</term>
+               <term>Oaths --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb n="1" facs="tcp:33287:1"/>
+            <p>
+               <hi>Very many hath been the teſtimonie<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of TRUTH And large hath been the Declarations that hath been given forth by the ſervants of the Lord, both ſons and daughters the followers of the LAMB</hi> Amongſt whom I having heard, beleived, and received their report, and the Lord having opened the eye within the vail, that made manifeſt his living witneſs, that witneſſed to the truth cannot but give in my teſtimony to thoſe pretious truths that hath been declared by them, though many for the wit<g ref="char:EOLhyphen"/>neſſing thereof hath gone through many hardſhips, great ſuf<g ref="char:EOLhyphen"/>ferings, &amp; long Impriſonments, ſome even to the laying down of their lives, and all that was neer and deer unto them; I ſay I cannot but give in my teſtimony, and chiefly concerning tythes as the Lord hath brought it to me, that for which hath been the cauſe of ſo much perſecution in all ages, with ſomething concerning Oaths, which ſo many ſnares, traps and gins, hath been laid for the righteous innocent ſervants of the Lord, be<g ref="char:EOLhyphen"/>cauſe they cannot ſwear.</p>
+            <p>And theſe are the teſtimonies given forth from one that loves and fears the Lord, <hi>M. W.</hi>
+            </p>
+            <p>Not I, but the Scriptures of truth, ſaith, <hi>Wo to thee that ſpoilest &amp; waſt not ſpoiled, and didſt wickedly, and they did not wickedly againgſt thee.When thou ſhalt ceaſe to ſpoil thou ſhalt be ſpoiled, when thou ſhalt make an end of doing wickedly, they ſhall do wickedly againſt thee,</hi> 
+               <bibl>Iſa. 10.</bibl>
+            </p>
+            <p>
+               <hi>Printed for the Author,</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="religious_tract">
+            <pb n="2" facs="tcp:33287:2"/>
+            <div type="part">
+               <head>The Tythes commanded of God for the Levites, for the ſtran<g ref="char:EOLhyphen"/>ger, for the fatherleſs and for the widows.</head>
+               <epigraph>
+                  <q>At the end of three years thou ſhalt bring forth all the Tythes of thine encreaſe of that year, and lay them up within thine <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> gates, and the Levite which hath no inheritance ſhall co<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e, and the ſtranger ſhall come, the widows and the fa<g ref="char:EOLhyphen"/>therleſs, ſhall come and eat, and be filled, that thy God may bleſs thee.
+<bibl>Deut. 14.</bibl>
+                  </q>
+               </epigraph>
+               <p>HEre is a right of Tythes at three years end gi<g ref="char:EOLhyphen"/>ven to the ſtranger to the fatherleſs and to the widows, as well as to the Levites, and this was given of God in whoſe gift all things are, and ſo of right to them it belongs; and curſed are they that take it from them, <hi>for curſed is he that hindreth the right of the ſtranger, the fatherleſs and the Widowes, and all the people ſhall ſay Amen, or, So be it,</hi> Deut. 27.19. Now here may be a Query whether this curſe was ever taken away, or whether it doth not yet remain upon all in every Coun<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y, Sheir or Pariſh, or upon every man, or upon every one, both Prieſt that receives Tythes, and people that payes tythes, who hath or doth yet hinder the right of the ſtranger, the father<g ref="char:EOLhyphen"/>leſs and the widows, <hi>(mark)</hi> here is no curſe for hindring from the Levites, for that prieſthood was but for a time, &amp; ſo to end as well as the Moſayecal &amp; the Aronical Prieſt<g ref="char:EOLhyphen"/>hoods which was in that time, and then they had the tythes for their ſervice, and the Levite alſo it was their wages for their continual waiting in the Tabernacle, and then it was ſaid beware thou forſake not the Levite as long as thou li<g ref="char:EOLhyphen"/>veſt upon the earth, Deut. 12. <hi>v.</hi> 19. but now there is no ſuch ſervice, nor no ſuch waiting, and all thoſe Prieſthoods are long ſince ended, and the Lord hath ſcattered all the Tribes that none can juſtly ſay he is of <hi>Levy</hi>'s tribe, and none but <hi>Levys</hi> tribe received tythes then and ſince that the Lord hath no where determined who ſhall have the <hi>Le<g ref="char:EOLhyphen"/>vites</hi> portion, yet moſt preſumptuouſly the covetous Prieſts
+<pb n="3" facs="tcp:33287:2"/> they take it, not only the firſt ſecond and third years, bu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> go on to the 4. 5. and 6. years, and ſo as long as they live, and perſecute and take trebble dammages, which God did never command, if they have it not, and never care for the poor ſtranger, the poor fatherleſs children and widows, which God tooke care for, that none of his poor people or helpleſs creatures might want, as many of their own poor widows I have ſeen go a begging for a piece of bread, but this was not ſo in <hi>Hezekiahs</hi> time, when chambers in the houſe of the Lord was prepared, and all the people brought in their firſt fruits and tythes in to the chambers that he had prepared. But ſome may here query and ſay, what did they do before <hi>Hezekiahs</hi> time, or before the chambers were prepared, why the Scriptures tells you how they were diſ<g ref="char:EOLhyphen"/>poſed of, for in the third year which was the year of tything, they gave it themſelves to the Levites, the ſtranger, the fa<g ref="char:EOLhyphen"/>therleſs and to the widows, and then they were to come be<g ref="char:EOLhyphen"/>fore the Lord and ſhew what they had done according to the command of the Lord, <hi>Deut.</hi> 26. and there was a com<g ref="char:EOLhyphen"/>mand before that, <hi>for ſaith the Lord thou ſhalt not hinder the right of the ſtranger fatherleſs and widows,</hi> Deut. 24. there was command upon command for the poor, the ſtranger, the fatherleſs and widows; but now when <hi>Hezekiah</hi> had prepard the chambers, &amp; the people had brought in their firſt fruits and tythes, <hi>Hezekiah</hi> queſtioned with the Prieſt con<g ref="char:EOLhyphen"/>cerning the great heaps of tythes, and <hi>Azariah</hi> the chief Prieſt ſaid <hi>ſince they bring in their tythes and offerings into the houſe of the Lord, we have eaten and are ſatisfied,</hi> (mark) here they filled their bellies and not their barns) <hi>and there is a<g ref="char:EOLhyphen"/>boundance left,</hi> ſaies he, <hi>for the Lord hath bleſſed his people,</hi> ſo all had their portion, all their children, their wives, their ſons and their daughters, for by their fidelity they were all made partakers of the then (called holy things) as you may read in the 2 <hi>Cro.</hi> 31. to 18. then holy, the holy God com<g ref="char:EOLhyphen"/>manding them them whoſe commands are all pure, juſt, &amp; holy, but ſince that, he that then commanded them, chan<g ref="char:EOLhyphen"/>ged the wholl law, gave a new Covenant, and made a new
+<pb n="4" facs="tcp:33287:3"/> will, a new teſtament, and ſo abrogated the ould and diſa<g ref="char:EOLhyphen"/>nulled, ſo its vaniſhed away, he took away the firſt that he might eſtabliſh the ſecond, ſo that it is very neceſſary now for all to know and for all to ſee the end of what is taken a<g ref="char:EOLhyphen"/>way, diſanulled or changed.</p>
+               <p>Though <hi>Moſes</hi> then hid it in the dark, and put a vail over his face, that the children of Iſrael ſhould not then ſee the end of what was to be aboliſhed, for they were to offer the ſacrifices, and to be obedient to all the commands of God, as they were then commanded, <hi>therefore Moſes put the vail over,</hi> 2. <hi>Cor.</hi> 3. yet nevertheleſs ſaies the Apoſtle then, <hi>when they turn their hearts to the Lord, the vail ſhall be taken away, v.</hi> 16. So now the vaile is over the hearts of all them that take tythes or trebble dammage to this day, and ſhall not be taken away till they turn to the Lord, the perfect guide to God, that he may take it away: So all now either Prieſt, Im<g ref="char:EOLhyphen"/>propriator, or people whatſoever, that takes tythes or paies tythes to any of thoſe Prieſts denies him who is our high-Prieſt, who came of another Tribe, not of <hi>Levi,</hi> but of <hi>Iu<g ref="char:EOLhyphen"/>dah,</hi> for <hi>Iudah</hi> prevailed, and of him came the Prince, 1 <hi>Cro.</hi> 5. the wonderful Counſellor, the mighty God the ever<g ref="char:EOLhyphen"/>laſting Father, and the Prince of peace, <hi>Iſai.</hi> 9.</p>
+               <p>This is he, who is, and is to be Ruler over the houſe of God, <hi>Heb.</hi> 10.21. now I ſay again who paies or receives tythes now denies him, and are ſtill in the figures, types and ſhadows, beggerly rudaments, and are not come to Chriſt, the ſubſtance, in whom they are all ended and are to end, but they are yet under the firſt Teſtament, which had the Ordinances of Religion and the worldly Sanctuary, which was all but of force ſo long as he lived, which made the New Teſtament, or his laſt will, or ſo, and then they were neceſſary becauſe they were the ſhadows or ſimilitudes of the heavenly things, but we who are come to witneſs the ſubſtance the heavenly thing it ſelf, or have ſeen the ſub<g ref="char:EOLhyphen"/>ſtance, we mind no more the ſhadows, for thoſe ſhadows could make none holy then, concerning the conſcience, nay not him that did the ſervice, <hi>Heb.</hi> 9.9. much leſs ſanctify
+<pb n="5" facs="tcp:33287:3"/> the comers therevnto, therefore thoſe carnal rights were but to continue until the time of reformation, if they had been to con<g ref="char:EOLhyphen"/>tinue longer, then would they not have ceaſed to have been offe<g ref="char:EOLhyphen"/>red, <hi>Heb.</hi> 10. but we who are come in meaſure to witneſs Chriſt Jeſus, who is the Ruler of the whole world, ye he rules all Seas though the waves thereof rore they ſhall not overflow us, and his Tabernacle is at <hi>Salem,</hi> and his dwelling is in <hi>Sion,</hi> Pſal. 9. he the Lord who is the great Redeemer, and hath redeemed us out of all thoſe carnal things, and is become our High Prieſt for ever, therefore we muſt not, cannot, nay we dare not pay tythes to any prieſt, ſeeing there is no command of Gods now in force for them, and if they ſay they have them by the earthly powers, let both powers and they take heed they do not preſumptuouſly blaſ<g ref="char:EOLhyphen"/>pheme, for the ſoul that doth ought preſumptuouſly Iſraelite or Stranger, the ſame blaſphemeth the Lord, <hi>and that ſoul ſhall be cut off from amongſt his people,</hi> Numb. 15. and the Lord hath di<g ref="char:EOLhyphen"/>rectly ſaid, <hi>whatſoever I command you that do, put nothing thereto, nor take nothing therefrom,</hi> Deut. 12.</p>
+               <p>And here you may remember <hi>Nadab</hi> and <hi>Abihu,</hi> the ſons of <hi>Aron</hi> the friend of God, who offering ſtrange fire which the Lord had not commanded, therefore a fire from the Lord muſt deſtroy them. <hi>Levit.</hi> 10.</p>
+               <p>Alſo remember <hi>Elies</hi> ſons, who were wicked men and ſons of <hi>Belial,</hi> and know not God, how they came and tooke their tythes by force, and the ſin of the young men was very great before the Lord, for men ſeeing that horrible abuſe, abhorred the offering of the Lord, and the wickedneſs of <hi>Elies</hi> houſe, for their ſins was ſo great that it was not to be purged, neither with ſacrifices nor Offerings for ever, and both his ſons <hi>Haphin</hi> and <hi>Phineas</hi> were to die in one day, as you may read 1 <hi>Sam.</hi> 2. and 3 <hi>chap.</hi> alſo what came upon <hi>Eli</hi> himſelf, for not chaſtiſing his ſons, though ſlight<g ref="char:EOLhyphen"/>ly he did reprove them.</p>
+               <p>So likewiſe <hi>Saul</hi> a King anointed by Gods command, yet when he offered ſacrifice when he was not to offer, and doing that he was not commanded, young <hi>Samuel</hi> for his preſumption, dirſt tell him, ſaying, <hi>thou haſt done fooliſhly,</hi> thou haſt not kept the command of the Lord, and now thy kingdome ſhall not continue (mark here for doing that he was not commanded he was to loſe
+<pb n="6" facs="tcp:33287:4"/> his kingdome) now in mans judgement this was a good thing, to offer a ſacrifice to the Lord, which he had commanded to others, but he did not command him, therefore it turned to his deſtru<g ref="char:EOLhyphen"/>ction, 1 <hi>Sam.</hi> 13. therefore its good for all to look to the com<g ref="char:EOLhyphen"/>mands of God, yea all Kings, Prieſts, and people, go not beyond the command of the Lord, leaſt he ſay, who required this of you? and you all ſtand ſpeechles, therefore take heed O you Prieſts go not beyond the command of the Lord, with your tythes, &amp; treb<g ref="char:EOLhyphen"/>ble dammage any longer, leſt the Lord ſay who required this at your hands? and you ſhall not plead then, and ſay ſuch a King or ſuch a Queen, or ſuch a Parliament made a Law, becauſe thoſe that we did or do no work for, would pay us no wages, nay but re<g ref="char:EOLhyphen"/>member you muſt all ſtand ſpeechleſs, therefore fear &amp; dread the Lord our God, for the Lord our God whoſe name is jealous, is a jealous God, <hi>Ex.</hi> 34. and many times hath done and doth terri<g ref="char:EOLhyphen"/>ble things in righteouſneſs.</p>
+               <p>Though ſome have ſaid it is true the Lord hath done ſuch ter<g ref="char:EOLhyphen"/>rible things then for example of his power or ſo, but now he doth not, ye now ye may yet remember this one example in <hi>London,</hi> 1662. about the time you call <hi>(Chriſtmas)</hi> how the whole family of a houſe was deſtroyed by fire in one night, and not one left to tell how it came, but in the true fear of the Lord I nominate this not that I think they were greater ſinners then many others nay, nay, I know that except all repents all ſhall likewiſe periſh, for the Lord is as terrible and as righteous now as ever he was, and his power as great as ever it was, he can overthrow the horſe and his rider at his pleaſure, he can call the Seas to overflow and com<g ref="char:EOLhyphen"/>mand them back to their bounds when he will, he is the higher power and muſt be obeyed, therefore Oh Prieſts take heed look not to the powers of the earth to help you in any thing that he hath not commanded, for it will be no plea for you when you are all chained up in ſilence, and if a man ſin againſt a man the Judge ſhall judge it, but if a man ſin againſt God, who will plead for him, ſo you ſee you cannot plead for your ſelves not none will dare to plead for you, and remember its a fearful thing to fall into the hands of the living God, ſo I ſay again and again, leave off your tythe and trebble dammage, and repent, and let Chriſt come to his houſe, that little <hi>Zacheus</hi> may reſtore four<g ref="char:EOLhyphen"/>fold,
+<pb n="7" facs="tcp:33287:4"/> but I ſay make haſt, make haſt, make ſpeed &amp; come in, before the day of Gods viſitation be fully over paſt, leſt it be too late for you and Chriſt then weep over you and cannot ſave you, at the ſence of which the Angel of the Lord hath ſtirred the waters &amp; they now flow. I can go no further, at preſent,</p>
+               <closer>
+                  <signed>M. W.</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <head>Now I would ask ſome few queſtions to thoſe Prieſts to try if the can or are but willing to anſwer.</head>
+               <p n="1">1. How they came by the third years Tythes.</p>
+               <p n="2">2. Since God gave them to the ſtranger, to the fatherleſs, &amp; to the widows, who was he that ſhould take them away?</p>
+               <p n="3">3. What was the right of the ſtranger, the fatherleſs and wi<g ref="char:EOLhyphen"/>dows, that God pronounced the Curſe to them that hindred them of it if it were not that which he gave them.</p>
+               <p n="4">4. Whether they were not theives and robbers then that took them from the ſtranger, fatherleſs and widows?</p>
+               <p n="5">5. If they were ſo then, whether they be not theives and rob<g ref="char:EOLhyphen"/>bers now that takes them from the ſtranger fatherleſs &amp; widows</p>
+               <p n="6">6. Whether any took tythes then that were not of <hi>Levies</hi> tribe.</p>
+               <p n="7">7. What did God give the tribe of <hi>Levi</hi> the tyth for?</p>
+               <p>But it may be many of you will ſay as ſome of your brethren hath done, when they could not tell how to anſwer, ſaid though it was Scripture, yet they were fooliſh queſtions, or elſe tis from a woman or ſo, but if it be ſo, why <hi>Balam</hi> anſwered his Aſs when he askt him a queſtion, and reproved his folly, who being a ſeer, could not ſee what the Aſs ſaw, and theres none of you come to that the man after Gods own heart was, <hi>Daevid,</hi> who upon the earth was a great King, a valient man, and had many ſouldiers un<g ref="char:EOLhyphen"/>der him, when he had vowed to deſtroy <hi>Nabal</hi> &amp; all the ſtrength of his houſe, yet when <hi>Abigail</hi> the woman came and told <hi>David</hi> he ought not to ſhed blood cauſeleſs, he denied not to ſpeak to her or to anſwer her, but ſaid in the meekneſs of his ſpirit, <hi>bleſſed be the Lord that ſent thee, bleſſed be thy counſel, bleſſed be thou that kept me from ſhadding of blood,</hi> yet God to ſhew vengeance is his, and he will repay it when he will and where he pleaſe, ſmote <hi>Na<g ref="char:EOLhyphen"/>bal,</hi> that ten daies after he died 1 <hi>Sam.</hi> 25. here the Lord ſhew<g ref="char:EOLhyphen"/>ed what was done to his was as done to Himſelf.</p>
+               <closer>
+                  <signed>M. W.</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <head>Alſo here is ſomething concerning OATHES.</head>
+               <p>IT is true that there was a liberty given to ſwear by the name of the Lord, as thus, <hi>Thou ſhalt fear the Lord and ſw<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ar by his name,</hi> Deut. 6.13. it is
+<pb n="8" facs="tcp:33287:5"/> like this was before a Magiſtrate, in the fear of the Lord this was uſed, but this was in old time, for ſaith Chriſt, you have heard in old time, thou ſhalt nor forſwear thy ſelf, and ſo, but I ſay <hi>ſwear not at all,</hi> Mat. 5.34. but let your yea be yea, your nay be nay, for what ever is more is evil, and ſo likewiſe in Scripture many may be brought in that ſwore as <hi>Abraham</hi> ſwore but he that ſaid before <hi>Abraham</hi> was, <hi>I AM,</hi> he ſaies ſwear not at all, King <hi>David</hi> ſwore to <hi>Jonathan</hi> when he was indanger but he that is King of Kings he ſaies ſwear not at all, &amp; <hi>Solomon</hi> ſwore, but a greater then <hi>Solomon</hi> ſaies <hi>ſwear not at all,</hi> and its like ſome of the Prophets might ſwear, but Chriſt <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſus the end of the Prophets &amp; the word of the oath, which was ſince the Law, &amp; ſince the Prophets, &amp; ſince the old time, which had the old Cove<g ref="char:EOLhyphen"/>nant, which was glorious in its time, &amp; at ſundry times &amp; in divers maners God ſpake in the old time to our fathers by Prophets, but he hath in theſe laſt daies ſpoke to us by his Son, as the Apoſtle ſpoke then, &amp; tis ſo now &amp; the word of the oath which maketh the Son High prieſt, &amp; teacher of his people, he ſaid <hi>ſwear not at all,</hi> &amp; this he ſpake to his own Diſciples whom he had called, &amp; choſen out of the world, and tis like they were no common ſwearers, for you ſee how ſtrickly own of them forbids ſwearing, as <hi>Iames</hi> 5. &amp; to them he ſaid you have heard in the old time, and ſo, but I ſay, <hi>ſwear not at all,</hi> and God ſaid, <hi>This is my beloved Son bear him,</hi> Matt. 17. and God hath in theſe laſt daies ſpoke to us by his ſon, &amp; we do herch in, the ſon that ſaid ſwear not at all, and obey him too for he is worthy, and they that obeyed not were not to enter into his reſt, ſe <hi>Heb.</hi> 3.</p>
+               <p>Here ſome may object and ſay this ſaying, <hi>ſwear not at all is means in com<g ref="char:EOLhyphen"/>mon diſcourſe, or ſo,</hi> but you may ſee in <hi>Lev.</hi> 24. where the Iſraelitiſh womans ſon and a man of Iſrael ſtrove together, and the Iſraelitiſh womans ſon ſwore or curſed, and they brought him to <hi>Moſes</hi> and put him in Ward, till <hi>Moſes</hi> knew the mind of the Lord, for <hi>Moſes</hi> dirſt do nothing till then, and then the Lord ſaid to <hi>Moſes</hi> let him be had without the hoſt and let all that heard him put their hands on his head, and let the Congregation ſtone him to death, and this was made a Law, not of mans but of Gods, and it wa<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> as well for the ſtranger as for him that was born in the land, ſee here was a law for the common ſwearer by it ſelf, ſo they plainly ſhew they never knew the true Chriſt, that holds up or pleads for oathes, for what ſtrength is in an oath, cannot they that ſwear, as ſoon forſwear, let us go back a lit<g ref="char:EOLhyphen"/>tle but to the laſt ſtate, whilſt it is yet in memory, and remember what Co<g ref="char:EOLhyphen"/>venants and Declarations they put forth, and called the great <hi>Jehovah</hi> to witneſs to what they promiſed and confirmed with oathes, which made ma<g ref="char:EOLhyphen"/>ny a ſimple hearted man &amp; woman adhere to them, &amp; upon that brought in of their money, Plate, horſes and what they had, thinking the wicked ſhould only have been taken from the King, and his Throne eſtabliſhed in righteouſneſs, and they gave their publick faith in paper bills to pay again. And did they not all forſwear, when they went from Declarations &amp; all that they had put forth and ſwore to, which was for Goſpel and liberty of con<g ref="char:EOLhyphen"/>ſcience, &amp; to right all men, but oh how ſoon they forgot their oathes, their promiſes, &amp; Declarations, &amp; all became as nothing, and yet is there more truſt or confidence to be put in a ſwearer, then in him who for conſci<g ref="char:EOLhyphen"/>ence ſake &amp; in obedience to him that ſaies <hi>ſwear not at all,</hi> dares not take an oath, yet is ready with yea &amp; nay to bear witneſs to any known truth &amp; to ſtand a witneſs againſt all that is known to be deceit or a lye.</p>
+               <closer>
+                  <signed>M. W.</signed>
+               </closer>
+               <pb facs="tcp:33287:5"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
